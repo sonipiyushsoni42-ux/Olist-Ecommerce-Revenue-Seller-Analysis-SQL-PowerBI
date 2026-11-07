@@ -1,3 +1,5 @@
+<img width="1887" height="997" alt="Revenue_Seller_Dashboard_Preview png" src="https://github.com/user-attachments/assets/d15f7bb7-f2eb-4afd-bbd8-c82fdef173f9" />
+
 # 📊 Brazilian E-Commerce Revenue, Pricing & Seller Performance Analysis
 
 ## 📌 Project Overview
